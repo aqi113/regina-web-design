@@ -6,9 +6,10 @@
 
 <!-- dash-content-start -->
 
-Create a blog with Astro and deploy it on Cloudflare Workers as a [static website](https://developers.cloudflare.com/workers/static-assets/).
+Create a blog with Astro and deploy it on Cloudflare Workers as a [static website]((https://www.nomad-designs.ca/)).
 
 Features:
+https://www.nomad-designs.ca/
 
 - ✅ Minimal styling (make it your own!)
 - ✅ 100/100 Lighthouse performance
